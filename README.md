@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello👋 I'm Harikrishnan Ponath Gopinadhan
+----------------------------------------
+#### I’m a passionate Android developer with expertise in building modern, scalable, and user-friendly mobile applications. I specialize in using tools and frameworks like Kotlin, Retrofit, Coroutines, Flow, MVVM, Clean Architecture, Room, and Firebase to create seamless digital experiences.
+----------------------------------------
 
-<!--
-**harikrishnanponath/harikrishnanponath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies I Use
+----------------------------------------
+- Languages: Kotlin, Java
 
-Here are some ideas to get you started:
+- UI: Jetpack Compose, XML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Libraries: Retrofit, Coroutines, Flow, Room, Hilt, LiveData, StateFlow, WorkManager
+
+- Architecture: MVVM, Clean Architecture, Multi-Module
+
+- Backend and Cloud Services: Firebase (Authentication, Firestore, Storage)
+
+- Other Tools: Git, GitHub, Gradle, Android Studio
